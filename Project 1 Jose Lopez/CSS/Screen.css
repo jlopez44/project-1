@@ -214,7 +214,7 @@ input[type=submit]:hover {
   input[type=email]:focus {
   background-color: #F0D7D7;     
   }
-  
+   
   input[type=tel] {
   width: 550px;   
   padding: 7px 5px;
