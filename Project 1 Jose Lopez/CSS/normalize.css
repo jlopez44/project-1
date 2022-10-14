@@ -61,7 +61,7 @@ table {
 
 button,
 input,
-optgroup,
+optgroup, 
 select,
 textarea {
   font-family: sans-serif; /* 1 */
