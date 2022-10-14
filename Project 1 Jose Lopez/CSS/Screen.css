@@ -75,7 +75,7 @@ input[type=text]:focus {
 
 input[type=email] {
   width: 350px;   
-  padding: 13px 8px;
+  padding: 13px 8px; 
   margin: 8px 0;	
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8; 
