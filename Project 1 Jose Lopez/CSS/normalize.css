@@ -158,7 +158,7 @@ legend {
 progress {
   display: inline-block; /* 1 */
   vertical-align: baseline; /* 2 */
-}
+} 
 
 /**
  * Remove the default vertical scrollbar in IE.
