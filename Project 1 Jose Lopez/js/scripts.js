@@ -1,5 +1,5 @@
 function AlertPage() {
-  alert("Thanks! You can now learn Filmmaking!");
+  alert("you have join the worlds best gym!");
   
   return false;	
 }
