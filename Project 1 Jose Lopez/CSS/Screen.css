@@ -79,7 +79,7 @@ input[type=email] {
   margin: 8px 0;	
   border-radius: 15px 50px 30px 30px;
   background-color: #f8f8f8; 
-  border: solid #000080;
+  border: solid #000080; 
   font-size: 1.3em;	
 }
 
